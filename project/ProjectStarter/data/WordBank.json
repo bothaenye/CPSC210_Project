@@ -1,0 +1,30 @@
+{
+    "easyWords": [],
+    "hardWords": [
+        {
+            "pronounciation": "aalif",
+            "translation": "? (long vowel a)",
+            "word": "?? / ? / ? / ?"
+        },
+        {
+            "pronounciation": "baa",
+            "translation": "b",
+            "word": "?? / ??? / ?? / ?"
+        },
+        {
+            "pronounciation": "taa",
+            "translation": "t",
+            "word": "?? / ??? / ?? / ?"
+        },
+        {
+            "pronounciation": "phuaa",
+            "translation": "?",
+            "word": "?? / ??? / ?? / ?"
+        },
+        {
+            "pronounciation": "geem (ch/j long ee)",
+            "translation": "j, g",
+            "word": "?? / ??? / ?? / ?"
+        }
+    ]
+}

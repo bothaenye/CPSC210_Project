@@ -1,0 +1,26 @@
+{
+    "easyWords": [
+        {
+            "pronounciation": "t-hey",
+            "translation": "thé",
+            "word": "tea"
+        },
+        {
+            "pronounciation": "soo-kre",
+            "translation": "sucre",
+            "word": "sugar"
+        }
+    ],
+    "hardWords": [
+        {
+            "pronounciation": "plew-ee",
+            "translation": "pluie",
+            "word": "rain"
+        },
+        {
+            "pronounciation": "soo-ree",
+            "translation": "souris",
+            "word": "mouse"
+        }
+    ]
+}

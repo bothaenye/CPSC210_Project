@@ -1,0 +1,26 @@
+{
+    "hardWords": [
+        {
+            "word": "hello",
+            "translation": "bonjour",
+            "pronounciation" : "bon-jour"
+        },
+        {
+            "word": "world",
+            "translation": "monde",
+            "pronounciation" : "mon-d"
+        }
+    ],
+    "easyWords": [
+        {
+            "word": "tea",
+            "translation": "thé",
+            "pronounciation" : "t-hey"
+        },
+        {
+            "word": "sugar",
+            "translation": "sucre",
+            "pronounciation" : "soo-kre"
+        }
+    ]
+}
